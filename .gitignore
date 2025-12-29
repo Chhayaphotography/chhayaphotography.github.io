@@ -1,6 +1,13 @@
 # Folders not needed for deployment
 modern/
 
+# Large files
+*.mp4
+*.mov
+*.avi
+*.zip
+*.tar.gz
+
 # System files
 .DS_Store
 Thumbs.db
